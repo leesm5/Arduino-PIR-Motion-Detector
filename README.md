@@ -2,6 +2,7 @@
 
 Scott Lee
 
+Please see the wiki for more information on my project
 
 Interactive circuit built on circuits.io
 Code is posted with the circuit
